@@ -1,6 +1,6 @@
 {"source_info":
     [{
-    "photo_id": "1",
+    "id": "1",
     "photographer_name": "Erin Schaff",
     "time_date": "11 AM, March 8, 2019",
     "location": "Iowa City, Iowa",
@@ -8,7 +8,7 @@
     "original_caption": "Senator Bernie Sanders greeted supporters during a rally in Council Bluffs, Iowa, on Thursday."
 },
 {
-    "photo_id": "2",
+    "id": "2",
     "photographer": "Tanya Habjouqa",
     "time_date": "2:30 PM, June 10, 2013",
     "location": "West Bank, Palestine",
